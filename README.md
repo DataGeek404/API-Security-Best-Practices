@@ -1,5 +1,3 @@
-
-
 # 🔐 API Security Best Practices
 
 ## 📘 Overview
